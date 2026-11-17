@@ -58,4 +58,4 @@ The project implements Phase 1 (P0) and Phase 2 (P1) requirements. Cart data is 
 Developed as part of the Prodesk Internship – Sprint 6.
 
 ## Deploy link
-Link : https://shop-zone-kappa.vercel.app/shop
+Link : https://shop-zone-kappa.vercel.app/
